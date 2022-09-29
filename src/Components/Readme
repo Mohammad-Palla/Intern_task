@@ -1,0 +1,22 @@
+[01;34mtechkmr-task-website[0m
+└── [01;34mComponents[0m
+    ├── Navbar.jsx
+    ├── ParentComponent.jsx
+    ├── [01;34mServices[0m
+    │   ├── ChildComponent2.jsx
+    │   ├── ChildComponent3.jsx
+    │   ├── ChildComponent.jsx
+    │   ├── [01;34mcss[0m
+    │   │   ├── file.css
+    │   │   └── style.css
+    │   ├── [01;34mjs[0m
+    │   │   ├── function.js
+    │   │   └── script.js
+    │   └── [01;34msrc[0m
+    │       ├── demo.img
+    │       ├── [01;35mdemo.jpg[0m
+    │       ├── [01;35mdemo.mp4[0m
+    │       └── [01;35mdemo.svg[0m
+    └── Services.jsx
+
+5 directories, 14 files
