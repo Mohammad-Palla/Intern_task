@@ -5,6 +5,8 @@ Eg:- Below we have components folder and we have 3 parent components [Navbar.jsx
 have some child components so we created new folder same as the name of parent component and is Services folder we have child components for Services.jsx.
 We also have the src folder for any non coding resources and we have css folder for any kind of custom css in the component and js folder of any kind of 
 javascript.
+
+............................................................................................................
 └── Components
     ├── Navbar.jsx
     ├── ParentComponent.jsx
