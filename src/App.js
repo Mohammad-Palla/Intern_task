@@ -3,6 +3,7 @@ function App() {
     
   <>
   <h1>Welcome Interns</h1>
+    <h2>im Nazif</h2>
   </>
   );
 }
