@@ -1,22 +1,29 @@
-[01;34mtechkmr-task-website[0m
-└── [01;34mComponents[0m
+
+# Below is the folder Structure for your components
+##use the same sturcture while creating your components
+Eg:- Below we have components folder and we have 3 parent components [Navbar.jsx, ParentComponent.jsx, Services.jsx] in parent component Services.jsx we
+have some child components so we created new folder same as the name of parent component and is Services folder we have child components for Services.jsx.
+We also have the src folder for any non coding resources and we have css folder for any kind of custom css in the component and js folder of any kind of 
+javascript.
+└── Components
     ├── Navbar.jsx
     ├── ParentComponent.jsx
-    ├── [01;34mServices[0m
+    ├── Services
     │   ├── ChildComponent2.jsx
     │   ├── ChildComponent3.jsx
     │   ├── ChildComponent.jsx
-    │   ├── [01;34mcss[0m
+    │   ├── css
     │   │   ├── file.css
     │   │   └── style.css
-    │   ├── [01;34mjs[0m
+    │   ├── js
     │   │   ├── function.js
     │   │   └── script.js
-    │   └── [01;34msrc[0m
+    │   └── src
     │       ├── demo.img
-    │       ├── [01;35mdemo.jpg[0m
-    │       ├── [01;35mdemo.mp4[0m
-    │       └── [01;35mdemo.svg[0m
+    │       ├── demo.jpg
+    │       ├── demo.mp4
+    │       └── demo.svg
     └── Services.jsx
-
-5 directories, 14 files
+    
+    
+    # kindly use the given folder structure
